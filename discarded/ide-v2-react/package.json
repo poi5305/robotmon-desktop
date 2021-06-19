@@ -23,7 +23,7 @@
     "babel-preset-stage-2": "^6.24.1",
     "concurrently": "^3.5.0",
     "css-loader": "^0.28.7",
-    "electron": "^1.7.8",
+    "electron": "^9.1.0",
     "electron-packager": "^9.1.0",
     "electron-rebuild": "^1.6.0",
     "electron-reload": "^1.2.2",
