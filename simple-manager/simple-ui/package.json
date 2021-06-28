@@ -11,7 +11,7 @@
     "core-js": "^2.6.5",
     "google-protobuf": "^3.10.0-rc.1",
     "grpc-web": "^1.0.6",
-    "prismjs": "^1.17.1",
+    "prismjs": "^1.24.0",
     "vue": "2.6.10",
     "vue-clipboard2": "^0.3.1",
     "vue-localstorage": "^0.6.2",
